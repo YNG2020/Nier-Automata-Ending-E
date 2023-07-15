@@ -725,9 +725,14 @@ void running()
 	{
 		loopTime1 = clock();
 
-		if (_kbhit())
+		if (_kbhit()) {
 			ch = _getch();
-
+			int a = 1;
+		}
+		
+		int b = 1;
+		//ch = _getch();
+		int a = 1;
 		putimage(0, 0, &bk_img);						// 放置背景图
 		Menu::transfer_interface(menu, win_wid, win_hei, ch);	// 菜单转换接口
 		Particle::show_particle(imgBuffer, &img, win_wid, win_hei, particles);	// 放置渲染粒子
