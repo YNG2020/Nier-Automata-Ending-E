@@ -104,7 +104,7 @@ int nierPlane::gameMain()
 			*_message = getmessage(EM_MOUSE);
 			*_haveMessage = true;
 		}
-		}, &message, &haveMessage, &isMessageEnd);
+	}, &message, &haveMessage, &isMessageEnd);
 
 	// 触发函数数量
 #define handleNum 50
@@ -727,16 +727,13 @@ int nierPlane::gameMain()
 	{
 		// 将上一帧渲染好的图片放到屏幕上
 		memmove(graphBuffer, imgBuffer, GRAPH_HEIGHT * GRAPH_WIDTH * sizeof(DWORD));
-
 		cleardevice();
-
 		myGetKeyBoardState();
 
 		if (playerBulletMoveTime.isOver()) {
 			playerBulletMoveTime.updateTime();
 			playerBulletMoveTime.resetCount();
 			movePlayerBulletIfNotHitEnemyOrEnemyBullet();
-			
 		}
 
 		if (particle_planeHit2::nowPlaneHit == nullptr) {
@@ -770,7 +767,6 @@ int nierPlane::gameMain()
 			{
 				p1->shoot();
 			}
-
 		}
 
 		if (listenMouseTime.ifOverTime()) {
@@ -793,10 +789,6 @@ int nierPlane::gameMain()
 
 			}
 		}
-
-
-		//if (KEY_DOWN('H'))
-		//	time_to_end = true;
 
 		// 检测是否超过检测暂停按键的间隔时间
 		if (pauseTime.ifOverTime()) {
@@ -839,18 +831,6 @@ int nierPlane::gameMain()
 			isListenEnd = true;
 			break;
 		}
-
-		//if (time_to_end)
-		//{
-		//	// 直接对显示缓冲区赋值
-		//	if (temp_color >= 255)
-		//		break;
-		//	for (int i = 0; i < 1520 * 830; i++)
-		//		pbImg[i] = BGR(RGB(temp_color, temp_color, temp_color, ));
-		//	temp_color += 2.5;
-		//	music.turn_down_volumn(10);
-		//	myputimage(0, 0, &img, 0);
-		//}
 
 		 //输出测试数据
 		{
@@ -1238,7 +1218,7 @@ int nierPlane::endlessGameMain()
 				break;
 			}
 			Sleep(1);
-			*_message = getmessage(EM_MOUSE);
+			*_message = getmessage(EX_KEY);
 			*_haveMessage = true;
 		}
 		}, &message, &haveMessage, &isMessageEnd);
@@ -1291,7 +1271,6 @@ int nierPlane::endlessGameMain()
 	// 一个暂停标记和一个终止标记
 	bool isLoopEnd = false;
 
-
 	IMAGE* imgPtr = new IMAGE(GRAPH_WIDTH, GRAPH_HEIGHT);
 	DWORD* graphBuffer = GetImageBuffer();
 	DWORD* imgBuffer = GetImageBuffer(imgPtr);
@@ -1308,14 +1287,12 @@ int nierPlane::endlessGameMain()
 	// 打开音乐文件
 	openMusicFile();
 
-
 	// 延时三秒后己方出现
 	while (1) {
 		if (clock() - onStageTime > 3000) break;
 		Sleep(10);
 	}
 	p1 = new player(true);
-
 
 	// 监听标记, 为true时停止监听
 	bool isListenEnd = false;
@@ -1344,10 +1321,9 @@ int nierPlane::endlessGameMain()
 				break;
 			}
 			if (handleStatus[++list] && (nowCount == 0)) {
-				thread([](HANDLE_FUNCTION* handleList, enemyContainer* enemyVctorList, int list)
-					{
+				thread([](HANDLE_FUNCTION* handleList, enemyContainer* enemyVctorList, int list)	{
 						handleList[list](enemyVctorList, 1, 1);
-					}
+				}
 				, handleList, enemyVctorList, list).join();
 				p1->isShoot = true;
 				handleStatus[list] = false;
@@ -1368,8 +1344,6 @@ int nierPlane::endlessGameMain()
 				thread([](HANDLE_FUNCTION* handleList, enemyContainer* enemyVctorList, int list, double degreeOfDifficulty)
 					{handleList[list](enemyVctorList, degreeOfDifficulty, 1); }
 				, handleList, enemyVctorList, list, nowDegreeOfDifficulty).join();
-
-				//handleStatus[list] = false;
 			}
 			if (handleStatus[++list] && (nowCount >= 20)) {
 				maxEnemyNum = 5;
@@ -1377,46 +1351,20 @@ int nierPlane::endlessGameMain()
 				handleStatus[list] = false;
 			}
 			if (handleStatus[++list] && (nowCount >= 30)) {
-				/*thread([](HANDLE_FUNCTION* handleList, enemyContainer* enemyVctorList, int list)
-					{handleList[list](enemyVctorList, 1, 1); }
-				, handleList, enemyVctorList, list).detach();*/
 				maxEnemyNum = 8;
 				nowDegreeOfDifficulty += stepDegreeOfDifficulty;
 				handleStatus[list] = false;
 			}
 			if (handleStatus[++list] && (nowCount >= 40)) {
-				/*thread([](HANDLE_FUNCTION* handleList, enemyContainer* enemyVctorList, int list)
-					{handleList[list](enemyVctorList, 1, 1); }
-				, handleList, enemyVctorList, list).detach();*/
 				maxEnemyNum = 12;
 				nowDegreeOfDifficulty += stepDegreeOfDifficulty;
 				handleStatus[list] = false;
 			}
-			/*if (handleStatus[++list] && (nowCount >= 26)) {
-				thread([](HANDLE_FUNCTION* handleList, enemyContainer* enemyVctorList, int list)
-					{handleList[list](enemyVctorList, 1, 1); }
-				, handleList, enemyVctorList, list).detach();
-				handleStatus[list] = false;
-			}
-			if (handleStatus[++list] && (nowCount >= 36)) {
-				thread([](HANDLE_FUNCTION* handleList, enemyContainer* enemyVctorList, int list)
-					{handleList[list](enemyVctorList, 1, 1); }
-				, handleList, enemyVctorList, list).detach();
-				handleStatus[list] = false;
-			}
-			if (handleStatus[++list] && (nowCount >= 39)) {
-				thread([](HANDLE_FUNCTION* handleList, enemyContainer* enemyVctorList, int list)
-					{handleList[list](enemyVctorList, 1, 1); }
-				, handleList, enemyVctorList, list).detach();
-				handleStatus[list] = false;
-			}*/
 		}
 		}, &isListenEnd, handleList, enemyVctorList, p1);
-		//}, &isListenEnd, handleList, endlessEnemyVctorList, p1);
 
 	SetWorkingImage(imgPtr);
 	setbkcolor(BACKGROUND_COLOR);
-
 
 	while (true)
 	{
@@ -1490,7 +1438,6 @@ int nierPlane::endlessGameMain()
 			}
 		}
 
-
 		// 检测是否超过检测暂停按键的间隔时间
 		if (pauseTime.ifOverTime()) {
 			if (KEY_DOWN('P')) {
@@ -1550,8 +1497,6 @@ int nierPlane::endlessGameMain()
 		}
 		loopTime.updateTime();// 计时器归零
 	}
-
-	
 
 	// 退出其他线程
 	{
@@ -1633,7 +1578,11 @@ static void putDialogBox() {
 		putimage(0, 0, img);
 		Sleep(100);
 	}
-	char c = _getch(); // c无用, 只是消除warnning
+	//char c = '\0';
+	//ExMessage m;
+	//m = getmessage(EX_CHAR);
+	//c = m.ch;
+	//c = _getch();
 	for (int i = 0; i < textList[1]->textNum; i++) {
 		SetWorkingImage(img);
 		cleardevice();
@@ -1644,7 +1593,8 @@ static void putDialogBox() {
 		putimage(0, 0, img);
 		Sleep(100);
 	}
-	c = _getch();
+	//m = getmessage(EX_CHAR);
+	//c = m.ch;
 	for (int i = 0; i < textList[2]->textNum; i++) {
 		SetWorkingImage(img);
 		cleardevice();
@@ -1655,7 +1605,8 @@ static void putDialogBox() {
 		putimage(0, 0, img);
 		Sleep(100);
 	}
-	c = _getch();
+	//m = getmessage(EX_CHAR);
+	//c = m.ch;
 	for (int i = 0; i < textList[3]->textNum; i++) {
 		SetWorkingImage(img);
 		cleardevice();
@@ -1666,7 +1617,6 @@ static void putDialogBox() {
 		putimage(0, 0, img);
 		Sleep(100);
 	}
-
 
 }
 

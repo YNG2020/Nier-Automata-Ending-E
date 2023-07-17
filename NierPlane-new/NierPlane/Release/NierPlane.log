@@ -1,0 +1,26 @@
+﻿  nierPlane.cpp
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.h(14,2): warning C4091: “static ”: 没有声明变量时忽略“nierPlane”的左侧
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.h(30,12): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.h(32,15): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.h(33,14): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.h(207,78): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.h(207,74): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\dialogBox.h(11,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\dialogBox.h(12,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyPage.h(63,17): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyPage.h(64,17): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.cpp(1159,16): warning C4002: 类函数宏的调用“RGB”参数过多
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.cpp(1227,1): warning C4005: “handleNum”: 宏重定义
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.cpp(110,1): message : 参见“handleNum”的前一个定义
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.cpp(1821,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.cpp(1821,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.cpp(1996,87): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.cpp(1996,64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.cpp(2015,89): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.cpp(2015,66): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  1 of 2446 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  NierPlane.vcxproj -> D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\Release\NierPlane.exe

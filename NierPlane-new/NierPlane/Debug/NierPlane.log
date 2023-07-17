@@ -1,0 +1,258 @@
+﻿  bullet.cpp
+  enemy.cpp
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.h(30,12): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.h(32,15): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.h(33,14): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.h(207,78): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.h(207,74): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(50,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(54,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(58,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(62,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(66,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(104,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(105,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(116,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(120,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(124,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(128,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(132,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(136,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(211,10): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(212,10): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(227,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(228,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(351,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(350,61): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(362,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(361,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(366,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(365,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(385,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(384,63): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(389,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(388,65): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(409,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(408,63): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(413,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(412,65): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(422,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(421,63): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(426,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(425,65): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(446,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(445,63): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(450,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(449,65): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(459,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(458,63): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(463,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.cpp(462,65): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  enemyBullet.cpp
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyBullet.cpp(20,6): warning C4101: “border”: 未引用的局部变量
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyBullet.cpp(58,31): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyBullet.cpp(59,31): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyBullet.cpp(77,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyBullet.cpp(77,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyBullet.cpp(128,6): warning C4101: “border”: 未引用的局部变量
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyBullet.cpp(150,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyBullet.cpp(150,14): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  enemyBullet_2.cpp
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyBullet_2.cpp(33,31): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyBullet_2.cpp(34,31): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyBullet_2.cpp(51,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyBullet_2.cpp(51,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyBullet_2.cpp(105,6): warning C4101: “border”: 未引用的局部变量
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyBullet_2.cpp(120,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyBullet_2.cpp(120,14): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  GameMain.cpp
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.h(14,2): warning C4091: “static ”: 没有声明变量时忽略“nierPlane”的左侧
+  MusicMCI.cpp
+  MyMusic.cpp
+  nierPlane.cpp
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.h(14,2): warning C4091: “static ”: 没有声明变量时忽略“nierPlane”的左侧
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.h(30,12): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.h(32,15): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.h(33,14): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.h(207,78): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemy.h(207,74): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\dialogBox.h(11,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\dialogBox.h(12,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyPage.h(63,17): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\enemyPage.h(64,17): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.cpp(1159,16): warning C4002: 类函数宏的调用“RGB”参数过多
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.cpp(1227,1): warning C4005: “handleNum”: 宏重定义
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.cpp(110,1): message : 参见“handleNum”的前一个定义
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.cpp(1821,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.cpp(1821,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.cpp(1996,87): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.cpp(1996,64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.cpp(2015,89): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.cpp(2015,66): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  particle.cpp
+  particle_cube3d.cpp
+  particle_enemyBoom.cpp
+  particle_enemyHit1.cpp
+  particle_enemyHit2.cpp
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit2.cpp(8,5): warning C4838: 从“double”转换到“LONG”需要收缩转换
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit2.cpp(8,5): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit2.cpp(8,19): warning C4838: 从“double”转换到“LONG”需要收缩转换
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit2.cpp(8,19): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit2.cpp(9,5): warning C4838: 从“double”转换到“LONG”需要收缩转换
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit2.cpp(9,5): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit2.cpp(9,19): warning C4838: 从“double”转换到“LONG”需要收缩转换
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit2.cpp(9,19): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit2.cpp(10,5): warning C4838: 从“double”转换到“LONG”需要收缩转换
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit2.cpp(10,5): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit2.cpp(10,19): warning C4838: 从“double”转换到“LONG”需要收缩转换
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit2.cpp(10,19): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit2.cpp(11,5): warning C4838: 从“double”转换到“LONG”需要收缩转换
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit2.cpp(11,5): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit2.cpp(11,19): warning C4838: 从“double”转换到“LONG”需要收缩转换
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit2.cpp(11,19): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+  particle_enemyHit3.cpp
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit3.cpp(19,46): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit3.cpp(20,46): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit3.cpp(32,25): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_enemyHit3.cpp(33,25): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  particle_hitHalo.cpp
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_hitHalo.cpp(12,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_hitHalo.cpp(37,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_hitHalo.cpp(33,6): warning C4101: “stepZ”: 未引用的局部变量
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_hitHalo.cpp(69,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_hitHalo.cpp(69,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_hitHalo.cpp(91,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_hitHalo.cpp(91,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_hitHalo.cpp(128,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_hitHalo.cpp(128,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_hitHalo.cpp(138,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_hitHalo.cpp(138,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  particle_onStageHalo.cpp
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStageHalo.cpp(58,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStageHalo.cpp(58,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStageHalo.cpp(59,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStageHalo.cpp(59,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStageHalo.cpp(61,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStageHalo.cpp(61,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStageHalo.cpp(65,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStageHalo.cpp(65,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStageHalo.cpp(76,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStageHalo.cpp(76,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStageHalo.cpp(77,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStageHalo.cpp(77,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  particle_onStagePoint.cpp
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.h(30,12): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.h(32,15): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.h(33,14): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.cpp(18,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.cpp(14,6): warning C4101: “stepZ”: 未引用的局部变量
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.cpp(160,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.cpp(161,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.cpp(179,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.cpp(180,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.cpp(201,6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.cpp(202,6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.cpp(207,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.cpp(208,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.cpp(217,9): warning C4305: “=”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.cpp(253,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.cpp(254,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.cpp(275,6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint.cpp(276,6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  particle_onStagePoint2.cpp
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(17,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(13,6): warning C4101: “stepZ”: 未引用的局部变量
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(116,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(117,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(118,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(119,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(120,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(121,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(122,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(123,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(125,43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(127,43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(182,21): warning C4305: “=”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(184,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(187,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(189,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(191,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(196,21): warning C4305: “=”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(198,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(202,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(204,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(206,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(210,21): warning C4305: “=”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(212,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(215,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(217,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(219,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(223,21): warning C4305: “=”: 从“double”到“float”截断
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(225,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(228,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(230,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(232,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(234,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(235,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(239,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(240,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(244,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(245,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(249,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(250,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(276,12): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(277,12): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(282,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_onStagePoint2.cpp(283,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  particle_planeHit1.cpp
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_planeHit1.cpp(6,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  particle_planeHit2.cpp
+  正在生成代码...
+  正在编译...
+  particle_planeHit3.cpp
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_planeHit3.cpp(11,13): warning C4838: 从“double”转换到“LONG”需要收缩转换
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_planeHit3.cpp(11,13): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_planeHit3.cpp(11,26): warning C4838: 从“double”转换到“LONG”需要收缩转换
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_planeHit3.cpp(11,26): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_planeHit3.cpp(12,13): warning C4838: 从“double”转换到“LONG”需要收缩转换
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_planeHit3.cpp(12,13): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_planeHit3.cpp(12,26): warning C4838: 从“double”转换到“LONG”需要收缩转换
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_planeHit3.cpp(12,26): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_planeHit3.cpp(13,13): warning C4838: 从“double”转换到“LONG”需要收缩转换
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_planeHit3.cpp(13,13): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_planeHit3.cpp(13,26): warning C4838: 从“double”转换到“LONG”需要收缩转换
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_planeHit3.cpp(13,26): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_planeHit3.cpp(14,13): warning C4838: 从“double”转换到“LONG”需要收缩转换
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_planeHit3.cpp(14,13): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_planeHit3.cpp(14,26): warning C4838: 从“double”转换到“LONG”需要收缩转换
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_planeHit3.cpp(14,26): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+  particle_planeHit4.cpp
+  particle_smallSquare.cpp
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_smallSquare.cpp(8,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_smallSquare.cpp(8,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_smallSquare.cpp(8,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\particle_smallSquare.cpp(8,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  player.cpp
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\player.cpp(30,57): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\player.cpp(30,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\player.cpp(47,67): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\player.cpp(48,67): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\player.cpp(52,65): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\player.cpp(53,65): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\player.cpp(59,68): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\player.cpp(60,68): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\player.cpp(65,66): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\player.cpp(66,66): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\player.cpp(76,58): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\player.cpp(77,58): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\player.cpp(79,56): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\player.cpp(80,56): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\player.cpp(173,123): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\player.cpp(173,72): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  starting.cpp
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\starting.cpp(730,11): warning C4244: “=”: 从“TCHAR”转换到“char”，可能丢失数据
+  surprise.cpp
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\nierPlane.h(14,2): warning C4091: “static ”: 没有声明变量时忽略“nierPlane”的左侧
+D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\NierPlane\surprise.cpp(37,11): warning C4101: “color”: 未引用的局部变量
+  正在生成代码...
+  NierPlane.vcxproj -> D:\Certificate\Nier_Automata_Ending_E\NierPlane-new\Debug\NierPlane.exe

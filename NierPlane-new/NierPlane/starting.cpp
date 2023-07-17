@@ -704,9 +704,9 @@ void running()
 	int time_count = 0;
 	const TCHAR* bk_name = _T("mynierbk.png");
 	loadimage(&bk_img, bk_name, win_wid, win_hei);
-	//wchar_t s[50];
 	time_t loopTime1, loopTime2;
 	char ch = '\0';
+	ExMessage m;
 
 	BeginBatchDraw();
 
@@ -725,22 +725,15 @@ void running()
 	{
 		loopTime1 = clock();
 
-		if (_kbhit()) {
-			ch = _getch();
-			int a = 1;
-		}
+		if (peekmessage(&m, EX_KEY))
+			if (m.message == WM_KEYDOWN)
+				ch = m.ch;
 		
-		int b = 1;
-		//ch = _getch();
-		int a = 1;
 		putimage(0, 0, &bk_img);						// 放置背景图
 		Menu::transfer_interface(menu, win_wid, win_hei, ch);	// 菜单转换接口
 		Particle::show_particle(imgBuffer, &img, win_wid, win_hei, particles);	// 放置渲染粒子
 		RandBlock::show_randblock(randblocks);	// 放置随机马赛克	
 		gear.show_gear();				// 放置齿轮
-
-		//wsprintf(s, L"looptime1: %4ld", static_cast<long>(clock() - loopTime1));
-		//outtextxy(0, 0, s);
 
 		loopTime2 = clock();
 		time_count = static_cast<int>(loopTime2 - loopTime1);

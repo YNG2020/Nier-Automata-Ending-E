@@ -21,7 +21,6 @@ void surprise()
 	
 	// 小飞机主程序
 	nierPlane::gameMain();
-	//nierPlane::endlessGameMain();
 	
 	music.pause_music();
 	music.quit_music();
