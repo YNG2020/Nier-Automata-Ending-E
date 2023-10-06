@@ -1,6 +1,7 @@
-# 前言
-暨南大学C++课程大作业——尼尔E结局
-游戏效果见链接：https://www.bilibili.com/video/BV1CT411g7A4
+# 效果展示
+<img src="https://github.com/YNG2020/Nier-Automata-Ending-E/blob/main/%E5%B0%81%E9%9D%A2.png?sanitize=true" width="720px">
+<img src="https://github.com/YNG2020/Nier-Automata-Ending-E/blob/main/E%E7%BB%93%E5%B1%80.png?sanitize=true" width="720px">
+游戏实机演示效果见链接：https://www.bilibili.com/video/BV1CT411g7A4
 
 # 项目介绍
 这个项目从像素级开始，来一点点复刻尼尔 E 结局，没有使用游戏引擎，没有使用额外的素材，很多视觉和运动特效都是通过一些纯粹的数学物理方法 + 代码制作出来的。
